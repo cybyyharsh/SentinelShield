@@ -42,7 +42,7 @@ traffic behavior, and generates security logs for analysis.
 ## 🚀 How to Run (Kali Linux)
 
 ```bash
-git clone https://github.com/yourusername/SentinelShield.git
+git clone https://github.com/cybyyharsh/SentinelShield.git
 cd SentinelShield
 pip install flask
 python3 sentinelshield.py
